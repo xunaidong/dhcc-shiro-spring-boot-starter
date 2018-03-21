@@ -1,4 +1,5 @@
-# jsets-shiro-spring-boot-starter
+# dhcc-shiro-spring-boot-starter
+## 特此感[jsets-shiro-spring-boot-starter](https://github.com/wj596/jsets-shiro-spring-boot-starter),基于此做了部分修改以适应自己项目的开发
 
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
